@@ -30,7 +30,7 @@
  1. Download
  - clone through termial :
   ``` 
-  git clone https://github.com/rpranshu/EternalView.git
+  git clone https://github.com/Aksh12002/EternalView.git
   ```
   2. Run
   -in terminal
