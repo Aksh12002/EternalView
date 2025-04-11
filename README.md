@@ -38,8 +38,6 @@
   chmod +x EternalView.sh
   ./EternalView.sh
   ```
-# Donate
-Donate generously! [![Support](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/rpranshu)
 
 ## Features:
 <table border="5" align=center>
